@@ -1,4 +1,3 @@
-<section>
 # Actividad 008 - DOM JQuery
 
 *INSTRUCCIONES*:
