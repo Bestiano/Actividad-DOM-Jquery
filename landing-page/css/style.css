@@ -5,16 +5,24 @@ body,html {
 
 .main {
   background: url('../img/bg.jpeg') no-repeat ;
-  background-size: cover; 
+  background-size: cover;
 
   padding-bottom: 50px;
 
   /* height: 100vh ; */
 }
 
+.new-bg {
+  background: url('../img/bg22.jpeg') no-repeat ;
+  background-size: cover;
+
+  padding-bottom: 50px;
+
+}
+
 .main-2 {
   background: url('../img/bg22.jpeg') no-repeat ;
-  background-size: cover; 
+  background-size: cover;
 
   padding-bottom: 50px;
 
